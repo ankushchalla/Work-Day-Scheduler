@@ -1,7 +1,7 @@
 # Work-Day-Scheduler
 
 ## Description
-Work-Day Scheduler uses moment.js and to create a daily planner. Events that the user inputs will persist using local storage.
+Work-Day Scheduler uses moment.js to create a daily planner. Events that the user inputs will persist using local storage.
 
 ## Installation
 * HTML file: `index.html`
